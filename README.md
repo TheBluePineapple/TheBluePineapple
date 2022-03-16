@@ -1,3 +1,3 @@
-Hi, I’m @TheBluePineapple
-I'm currently learning a variety of CS skills including hardware programming, linux, but most predominantly front end development
-You can find me on KA at https://www.khanacademy.org/profile/dawnshard21/projects
+Hi, I’m **@TheBluePineapple**
+I'm currently learning a variety of CS skills including hardware programming with embedded systems and Raspberry Pi, rust-lang, machine-learning, and graphics programming.
+I enjoy programming physics simulations, using javascript, and learning new things.

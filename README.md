@@ -1,12 +1,12 @@
 <h4 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
+<!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> -->
   Hi, I'm @TheBluePineapple
 </h4>
 I'm currently learning a variety of CS skills including hardware programming with embedded systems and Raspberry Pi, rust-lang, machine-learning, and graphics programming.
 I enjoy programming physics simulations, using javascript, and learning new things.
 <div id="badges">
   <p align="center">
-    <!--Shields.io-->
+    <!--Shields.io and simpleicons.org-->
     <a href="https://www.khanacademy.org/profile/dawnshard21/projects">
       <img src="https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=khanacademy&logoColor=white" alt="Khan Academy Badge"/>
     </a>
@@ -20,6 +20,8 @@ I enjoy programming physics simulations, using javascript, and learning new thin
 </div>
 
 <hr>
+
+<!-- https://github.com/devicons/devicon/blob/master/icons/ -->
 <div id="languages">
   <p align="center">Languages and Technologies</p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="50" height="50"/>&nbsp;

@@ -1,3 +1,4 @@
+<!-- Uncomment technologies I'm currently learning, and additional stats(streak, profile view count) -->
 <h4 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
   Hi, I'm @TheBluePineapple
@@ -17,6 +18,7 @@ I enjoy programming physics simulations, using javascript, and learning new thin
       <img src="https://img.shields.io/badge/Repl.it-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Replit Badge"/>
     </a>
   </p>
+<!--   <p align="center"><img src="https://komarev.com/ghpvc/?username=thebluepineapple&style=flat-square&color=blue" alt=""/></p> -->
 </div>
 
 <hr>
@@ -54,12 +56,8 @@ I enjoy programming physics simulations, using javascript, and learning new thin
   <h3 align="center">Github Statistics</h3>
   <p align="center">
     <img align="center" alt="TheBluePineapple's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thebluepineapple&show_icons=true&theme=vision-friendly-dark" /></br></br>
-    <img align="center" alt="TheBluePineapple's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebluepineapple&layout=compact&theme=vision-friendly-dark" /></br>
-    <!--   <img align="center" alt="TheBluePineapple's Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=thebluepineapple&theme=dark&background=000000" /></br> -->
+    <img align="center" alt="TheBluePineapple's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebluepineapple&layout=compact&theme=vision-friendly-dark" /></br></br>
+<!--     <img align="center" alt="TheBluePineapple's Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=thebluepineapple&theme=dark&background=000000" /></br> -->
   </p>
 
 </div>
-
-
-
-<!-- <p align="center"><img src="https://komarev.com/ghpvc/?username=thebluepineapple&style=flat-square&color=blue" alt=""/></p> -->

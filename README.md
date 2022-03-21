@@ -26,7 +26,7 @@ I enjoy programming physics simulations, using javascript, and learning new thin
   <p align="center">Languages and Technologies</p>
   <p align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="50" height="50"/>&nbsp;
-    <img src="https://wgpu.rs/logo.min.svg" title="WebGPU" alt="WebGPU" width="40" height="40"/>&nbsp; 
+<!--     <img src="https://wgpu.rs/logo.min.svg" title="WebGPU" alt="WebGPU" width="40" height="40"/>&nbsp;  -->
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node" alt="Node" width="50" height="50"/>&nbsp;
   <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; -->
   <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;  -->

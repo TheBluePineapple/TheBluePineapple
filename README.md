@@ -1,5 +1,5 @@
 <h4 align="center">
-<!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> -->
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
   Hi, I'm @TheBluePineapple
 </h4>
 I'm currently learning a variety of CS skills including hardware programming with embedded systems and Raspberry Pi, rust-lang, machine-learning, and graphics programming.

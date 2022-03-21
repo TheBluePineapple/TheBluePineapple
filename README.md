@@ -45,10 +45,8 @@ I enjoy programming physics simulations, using javascript, and learning new thin
     <img src="https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/PNG/128x128.png" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;  
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"  title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
 <!--     <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg"  title="SSH" alt="SSH" width="40" height="40"/>&nbsp; -->
-    <img src="https://cdn-icons-png.flaticon.com/512/5261/5261867.png" title="SSH" alt = "SSH" width="40" height="40"/>&nbsp; <!-- SSH icons created by Freepik--> 
+    <img src="https://user-images.githubusercontent.com/85315963/159347119-4ef85008-888a-41e5-807f-84fad0f7cbbd.png" title="SSH" alt = "SSH" width="40" height="40"/>&nbsp; <!-- SSH icons created by Freepik--> 
 <!--     <a href="https://www.flaticon.com/free-icons/ssh" title="ssh icons">Ssh icons created by Freepik - Flaticon</a> -->
-
-<!--   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TheBluePineapple&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 </div>
 
 <hr/>

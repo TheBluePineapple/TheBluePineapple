@@ -55,8 +55,8 @@ I enjoy programming physics simulations, using javascript, and learning new thin
   <p align="center">
     <img align="center" alt="TheBluePineapple's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thebluepineapple&show_icons=true&theme=vision-friendly-dark" /></br></br>
     <img align="center" alt="TheBluePineapple's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebluepineapple&layout=compact&theme=vision-friendly-dark" /></br>
+    <!--   <img align="center" alt="TheBluePineapple's Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=thebluepineapple&theme=dark&background=000000" /></br> -->
   </p>
-<!--   <img align="center" alt="TheBluePineapple's Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=thebluepineapple&theme=dark&background=000000" /></br> -->
 
 </div>
 

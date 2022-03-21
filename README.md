@@ -23,7 +23,7 @@ I enjoy programming physics simulations, using javascript, and learning new thin
 
 <!-- https://github.com/devicons/devicon/blob/master/icons/ -->
 <div id="languages">
-  <p align="center">Languages and Technologies</p>
+  <h3 align="center">Languages and Technologies</h3>
   <p align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="50" height="50"/>&nbsp;
 <!--     <img src="https://wgpu.rs/logo.min.svg" title="WebGPU" alt="WebGPU" width="40" height="40"/>&nbsp;  -->
@@ -48,8 +48,18 @@ I enjoy programming physics simulations, using javascript, and learning new thin
     <img src="https://cdn-icons-png.flaticon.com/512/5261/5261867.png" title="SSH" alt = "SSH" width="40" height="40"/>&nbsp; <!-- SSH icons created by Freepik--> 
 <!--     <a href="https://www.flaticon.com/free-icons/ssh" title="ssh icons">Ssh icons created by Freepik - Flaticon</a> -->
 
-  
-
+<!--   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TheBluePineapple&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 </div>
+
+<hr/>
+<div id="stats">
+  <h3 align="center">Github Statistics</h3>
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thebluepineapple&theme=dark&background=000000)](https://git.io/streak-stats)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebluepineapple&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+
 
 <!-- <p align="center"><img src="https://komarev.com/ghpvc/?username=thebluepineapple&style=flat-square&color=blue" alt=""/></p> -->

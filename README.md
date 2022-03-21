@@ -52,10 +52,12 @@ I enjoy programming physics simulations, using javascript, and learning new thin
 <hr/>
 <div id="stats">
   <h3 align="center">Github Statistics</h3>
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thebluepineapple&theme=dark&background=000000)](https://git.io/streak-stats)
+  <p align="center">
+    <img align="center" alt="TheBluePineapple's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thebluepineapple&show_icons=true&theme=vision-friendly-dark" /></br></br>
+    <img align="center" alt="TheBluePineapple's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebluepineapple&layout=compact&theme=vision-friendly-dark" /></br>
+  </p>
+<!--   <img align="center" alt="TheBluePineapple's Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=thebluepineapple&theme=dark&background=000000" /></br> -->
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebluepineapple&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 

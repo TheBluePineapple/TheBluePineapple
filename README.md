@@ -31,9 +31,8 @@ I enjoy programming physics simulations, using javascript, and learning new thin
        https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg
        https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-plain.svg
    -->
-    
-<!--     <img src="https://github.com/rust-lang/rust/blob/master/src/librustdoc/html/static/images/rust-logo.svg" title="Rust" alt="Rust" width="50" height="50"/>&nbsp; -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="50" height="50"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="50" height="50"/>&nbsp;
+<!--     <img src="https://wgpu.rs/logo.min.svg" title="WebGPU" alt="WebGPU" width="40" height="40"/>&nbsp;  -->
 <!--     <img src="https://wgpu.rs/logo.min.svg" title="WebGPU" alt="WebGPU" width="40" height="40"/>&nbsp;  -->
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node" alt="Node" width="50" height="50"/>&nbsp;
   <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; -->

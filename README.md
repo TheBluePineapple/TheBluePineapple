@@ -11,7 +11,7 @@ I enjoy programming physics simulations, using javascript, and learning new thin
     <a href="https://www.khanacademy.org/profile/dawnshard21/projects">
       <img src="https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=khanacademy&logoColor=white" alt="Khan Academy Badge"/>
     </a>
-    <a href="https://thebluepineapple.github.io/">
+    <a href="https://thebluepineapple.github.io/projects.html">
       <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=githubpages&logoColor=white" alt="Github Pages Badge"/>
     </a>
     <a href="https://replit.com/@Blu3Pineappl3/">

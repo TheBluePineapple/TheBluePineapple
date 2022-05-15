@@ -14,7 +14,7 @@ I enjoy programming physics simulations, using javascript, and learning new thin
     <a href="https://thebluepineapple.github.io/projects.html">
       <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=githubpages&logoColor=white" alt="Github Pages Badge"/>
     </a>
-    <a href="https://replit.com/@Blu3Pineappl3/">
+    <a href="https://replit.com/@Blu3Pineappl3?starred=true&username=Blu3Pineappl3">
       <img src="https://img.shields.io/badge/Repl.it-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Replit Badge"/>
     </a>
   </p>

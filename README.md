@@ -3,8 +3,7 @@
   <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>-->
   Hi, I'm @TheBluePineapple
 </h4>
-I'm currently learning a variety of CS skills including hardware programming with embedded systems and Raspberry Pi, rust-lang, machine-learning, and graphics programming.
-I enjoy programming physics simulations, using javascript, and learning new things.
+I am currently learning rust-lang, node.js, linux, vim, and using the raspberry pi to control hardware.  I enjoy making physics simulations, and fun visualizations.  I want to learn math, machine-learning, and graphics programming(webGL, and webGPU)  
 <div id="badges">
   <p align="center">
     <!--Shields.io and simpleicons.org-->

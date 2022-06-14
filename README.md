@@ -7,9 +7,9 @@ I am currently learning rust-lang, node.js, linux, vim, and using the raspberry 
 <div id="badges">
   <p align="center">
     <!--Shields.io and simpleicons.org-->
-<!--     <a href="https://www.khanacademy.org/profile/dawnshard21/projects"> -->
-<!--       <img src="https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=khanacademy&logoColor=white" alt="Khan Academy Badge"/> -->
-<!--     </a> -->
+    <a href="https://www.khanacademy.org/profile/dawnshard21/projects">
+      <img src="https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=khanacademy&logoColor=white" alt="Khan Academy Badge"/>
+    </a>
     <a href="https://thebluepineapple.github.io/projects.html">
       <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=githubpages&logoColor=white" alt="Github Pages Badge"/>
     </a>

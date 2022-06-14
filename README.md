@@ -51,8 +51,8 @@ I am currently learning rust-lang, node.js, linux, vim, and using the raspberry 
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;  -->
     <img src="https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/PNG/128x128.png" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;  
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"  title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-<!--     <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg"  title="SSH" alt="SSH" width="40" height="40"/>&nbsp; -->
-    <img src="https://user-images.githubusercontent.com/85315963/159347119-4ef85008-888a-41e5-807f-84fad0f7cbbd.png" title="SSH" alt = "SSH" width="40" height="40"/>&nbsp; <!-- SSH icons created by Freepik--> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg"  title="SSH" alt="SSH" width="40" height="40"/>&nbsp;
+<!--     <img src="https://user-images.githubusercontent.com/85315963/159347119-4ef85008-888a-41e5-807f-84fad0f7cbbd.png" title="SSH" alt = "SSH" width="40" height="40"/>&nbsp; <!-- SSH icons created by Freepik-->  -->
 <!--     <a href="https://www.flaticon.com/free-icons/ssh" title="ssh icons">Ssh icons created by Freepik - Flaticon</a> -->
 </div>
 

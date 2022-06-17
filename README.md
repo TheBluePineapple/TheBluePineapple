@@ -21,7 +21,7 @@ I am currently learning rust-lang, node.js, linux, vim, and using the raspberry 
 </div>
 
 <hr>
-
+<!--  react github heroku replit nginx mongodb express  debian socketio vim-->
 <!-- https://github.com/devicons/devicon/blob/master/icons/ -->
 <div id="languages">
   <h3 align="center">Languages and Technologies</h3>

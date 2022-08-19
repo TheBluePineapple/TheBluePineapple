@@ -1,4 +1,4 @@
-<!-- Uncomment technologies I'm currently learning, and additional stats(streak, profile view count) ADD DEBIAN ARCH-->
+<!-- Uncomment technologies I'm currently learning, and additional stats(streak, profile view count) ADD DEBIAN ARCH KALI-->
 <h4 align="center">
   <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>-->
   Hi, I'm @TheBluePineapple

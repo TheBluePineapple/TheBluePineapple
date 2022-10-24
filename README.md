@@ -1,4 +1,3 @@
-<!-- Uncomment technologies I'm currently learning, and additional stats(streak, profile view count) ADD DEBIAN ARCH KALI VIM-->
 <h4 align="center">
   <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>-->
   Hi, I'm @TheBluePineapple
@@ -17,11 +16,11 @@ I am currently learning rust-lang, node.js, linux, vim, and using the raspberry 
       <img src="https://img.shields.io/badge/Repl.it-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Replit Badge"/>
     </a>
   </p>
-<!--   <p align="center"><img src="https://komarev.com/ghpvc/?username=thebluepineapple&style=flat-square&color=blue" alt=""/></p> -->
+<!--   <p align="center"><img src="https://komarev.com/ghpvc/?username=thebluepineapple&style=flat-square&color=blue" alt="profile views"/></p> -->
 </div>
 
 <hr>
-<!--  react github heroku replit nginx mongodb express  debian socketio vim-->
+<!--  react github heroku replit nginx mongodb express  debian socketio vim debian arch kali vim-->
 <!-- https://github.com/devicons/devicon/blob/master/icons/ -->
 <div id="languages">
   <h3 align="center">Languages and Technologies</h3>

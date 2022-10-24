@@ -25,7 +25,15 @@ I am currently learning rust-lang, node.js, linux, vim, and using the raspberry 
 <div id="languages">
   <h3 align="center">Languages and Technologies</h3>
   <p align="center">
-<!--   https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg
+<!--
+https://github.com/lukas-w/font-logos/blob/master/vectors/archlinux.svg
+https://github.com/devicons/devicon/tree/master/icons/debian
+https://github.com/devicons/devicon/tree/master/icons/gentoo
+https://github.com/devicons/devicon/tree/master/icons/haskell
+https://github.com/devicons/devicon/tree/master/icons/selenium
+https://github.com/devicons/devicon/tree/master/icons/vim
+https://github.com/devicons/devicon/tree/master/icons/vuejs
+       https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg
        https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg
        https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-plain.svg
    -->

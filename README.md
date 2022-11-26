@@ -2,7 +2,7 @@
   <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>-->
   Hi, I'm @TheBluePineapple
 </h4>
-I am currently learning rust-lang, node.js, linux, vim, and using the raspberry pi to control hardware.  I enjoy making physics simulations, and fun visualizations.  I want to learn math, machine-learning, and graphics programming(webGL, and webGPU)  
+I'm currently learning Rust, I want to learn Julia, Haskell, and C, and I enjoy making physics simulations with HTML5 Canvas, interacting with and creating API's with Node.js, and ricing various linux applications.  I want to learn graphics programming(webGL, and webGPU), as well as machine learning.
 <div id="badges">
   <p align="center">
     <!--Shields.io and simpleicons.org-->
@@ -53,12 +53,15 @@ https://github.com/devicons/devicon/tree/master/icons/vuejs
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;  -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;  -->
 <!--     <img src="https://socket.io/images/logo.svg" title="Socket.io" alt="Socket.io" width="40" height="40"/>&nbsp;  -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp; 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/JotaRandom/archlinux-artwork/a9029989166ef42e10251f9d0f0fd09e60be2f31/icons/archlinux-icon-crystal-128.svg" title="Arch Linux" alt="Arch Linux" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/debian/debian-plain.svg" title="Arch Linux" alt="Arch Linux" width="40" height="40"/>&nbsp;
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGINX" alt="NGINX" width="40" height="40"/>&nbsp;  -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;  -->
     <img src="https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/PNG/128x128.png" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;  
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"  title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg"  title="SSH" alt="SSH" width="40" height="40"/>&nbsp;
+    <img src="https://avatars.githubusercontent.com/u/6471485"  title="Neovim" alt="Neovim" width="40" height="40"/>&nbsp;
+<!--     <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg"  title="SSH" alt="SSH" width="40" height="40"/>&nbsp; -->
 <!--     <img src="https://user-images.githubusercontent.com/85315963/159347119-4ef85008-888a-41e5-807f-84fad0f7cbbd.png" title="SSH" alt = "SSH" width="40" height="40"/>&nbsp; <!-- SSH icons created by Freepik-->
 <!--     <a href="https://www.flaticon.com/free-icons/ssh" title="ssh icons">Ssh icons created by Freepik - Flaticon</a> -->
 </div>

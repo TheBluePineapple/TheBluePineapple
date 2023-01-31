@@ -13,6 +13,7 @@ I'm currently learning Rust, I want to learn Julia, Haskell, and C, and I enjoy 
     <a href="https://www.khanacademy.org/profile/dawnshard21/projects">
       <img src="https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=khanacademy&logoColor=white" alt="Khan Academy Badge"/>
     </a>
+    <img src="https://img.shields.io/badge/TheBluePineapple%231386-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Github Pages Badge"/>
     <a href="https://thebluepineapple.github.io/projects.html">
       <img src="https://img.shields.io/badge/Portfolio-667881?style=for-the-badge&logo=githubpages&logoColor=white" alt="Github Pages Badge"/>
     </a>

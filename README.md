@@ -6,14 +6,17 @@ I'm currently learning Rust, I want to learn Julia, Haskell, and C, and I enjoy 
 <div id="badges">
   <p align="center">
     <!--Shields.io and simpleicons.org-->
+    <a href="https://github.com/TheBluePineapple/dotfiles">
+      <img src="https://img.shields.io/badge/Dot%20Files-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Khan Academy Badge"/>
+    </a>
     <a href="https://www.khanacademy.org/profile/dawnshard21/projects">
       <img src="https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=khanacademy&logoColor=white" alt="Khan Academy Badge"/>
     </a>
     <a href="https://thebluepineapple.github.io/projects.html">
-      <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=githubpages&logoColor=white" alt="Github Pages Badge"/>
+      <img src="https://img.shields.io/badge/Portfolio-667881?style=for-the-badge&logo=githubpages&logoColor=white" alt="Github Pages Badge"/>
     </a>
     <a href="https://replit.com/@Blu3Pineappl3?starred=true&username=Blu3Pineappl3">
-      <img src="https://img.shields.io/badge/Repl.it-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Replit Badge"/>
+      <img src="https://img.shields.io/badge/Repl.it-F26207?style=for-the-badge&logo=replit&logoColor=white" alt="Replit Badge"/>
     </a>
   </p>
 <!--   <p align="center"><img src="https://komarev.com/ghpvc/?username=thebluepineapple&style=flat-square&color=blue" alt="profile views"/></p> -->

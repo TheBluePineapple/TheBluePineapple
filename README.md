@@ -4,6 +4,7 @@
 </h4>
 I'm currently learning Rust, I want to learn Julia, Haskell, and C, and I enjoy making physics simulations with HTML5 Canvas, interacting with and creating API's with Node.js, and ricing various linux applications.  I want to learn graphics programming(webGL, and webGPU), as well as machine learning.
 <div id="badges">
+<!--    https://simpleicons.org/icons/awesomewm.svg https://simpleicons.org/icons/discord.svg https://simpleicons.org/icons/dwm.svg  https://simpleicons.org/icons/fdroid.svg https://simpleicons.org/icons/fireship.svg  https://simpleicons.org/icons/git.svghttps://simpleicons.org/icons/git.svg https://simpleicons.org/icons/suckless.svg -->
   <p align="center">
     <!--Shields.io and simpleicons.org-->
     <a href="https://github.com/TheBluePineapple/dotfiles">

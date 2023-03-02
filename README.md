@@ -2,7 +2,7 @@
   <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>-->
   Hi, I'm @TheBluePineapple
 </h4>
-I'm currently learning Rust, I want to learn Julia, Haskell, and C, and I enjoy making physics simulations with HTML5 Canvas, interacting with and creating API's with Node.js, and ricing various linux applications.  I want to learn graphics programming(webGL, and webGPU), as well as machine learning.
+I'm currently learning Rust, I want to learn Julia, Haskell, and C, and I enjoy making physics simulations with Javascript, interacting with and creating API's with Node.js, and ricing arch btw.  I want to learn graphics programming(wgpu), as well as machine learning. 
 <div id="badges">
 <!--    https://simpleicons.org/icons/awesomewm.svg https://simpleicons.org/icons/discord.svg https://simpleicons.org/icons/dwm.svg  https://simpleicons.org/icons/fdroid.svg https://simpleicons.org/icons/fireship.svg  https://simpleicons.org/icons/git.svghttps://simpleicons.org/icons/git.svg https://simpleicons.org/icons/suckless.svg -->
   <p align="center">
